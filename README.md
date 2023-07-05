@@ -12,9 +12,8 @@
 ### 🔝 Top Contributed Repo
 ![](https://github-contributor-stats.vercel.app/api?username=alikaoukkk&limit=5&theme=dark&combine_all_yearly_contributions=true)
 
-### 😂 Random Dev Meme
-<img src="https://rm.up.railway.app/" width="512px"/>
-
+### 😂 Random Meme ??
+"An 🐝	😀awesome 🐝	😃string with a few 🐝	😉emojis!" 
 ---
 [![](https://visitcount.itsvg.in/api?id=alikaoukkk&icon=0&color=0)](https://visitcount.itsvg.in)
 
