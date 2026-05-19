@@ -17,4 +17,4 @@
 
 
 
-![Ali's GitHub Stats](https://github-readme-stats.vercel.app/api?username=AliKaoukkk&show_icons=true&theme=dark&cache_seconds=0)
+
